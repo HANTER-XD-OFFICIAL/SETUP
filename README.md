@@ -182,11 +182,17 @@ python SETUP.py
 📦 FEATURES INCLUDED
 
 ✔ Automatic package updates
+
 ✔ Python installation
+
 ✔ Git installation
+
 ✔ Requests module setup
+
 ✔ Fast GitHub cloning
+
 ✔ One-click setup experience
+
 ✔ Beginner-friendly installation process
 
 ---
