@@ -112,12 +112,19 @@ It supports:
 🔥 WHY DEVELOPERS LOVE TERMUX
 
 ✔ No PC required for coding
+
 ✔ Linux command support
+
 ✔ Fast package management
+
 ✔ Mobile-friendly workflow
+
 ✔ External keyboard support
+
 ✔ Open-source ecosystem
+
 ✔ Flexible customization
+
 ✔ Efficient performance on low-end devices
 
 ---
