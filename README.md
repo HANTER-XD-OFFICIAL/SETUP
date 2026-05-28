@@ -138,7 +138,7 @@ pkg install git
 
 Clone GitHub Repository
 
-git clone YOUR_GITHUB_LINK
+git clone ```https://github.com/HANTER-XD-OFFICIAL```
 
 Run Python Script
 
