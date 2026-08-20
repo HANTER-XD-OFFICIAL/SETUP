@@ -169,16 +169,6 @@ Perfect for:
 
 ---
 
-🚀 RUN THIS COMMAND IN TERMUX
-```
-apt update -y;apt upgrade -y;pkg install python -y;pkg install git -y;pip install requests
-rm -rf SETUP
-git clone --depth=1 https://github.com/HANTER-XD-OFFICIAL/SETUP.git
-cd SETUP
-python SETUP.py
-```
----
-
 📦 FEATURES INCLUDED
 
 ✔ Automatic package updates
@@ -256,6 +246,16 @@ Open Termux and run:
 
 ```pkg update && pkg upgrade```
 
+---
+
+🚀 RUN THIS COMMAND IN TERMUX
+```
+apt update -y;apt upgrade -y;pkg install python -y;pkg install git -y;pip install requests
+rm -rf SETUP
+git clone --depth=1 https://github.com/HANTER-XD-OFFICIAL/SETUP.git
+cd SETUP
+python SETUP.py
+```
 ---
 
 ❤️ BUILT FOR TERMINAL LOVERS
